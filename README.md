@@ -1,3 +1,9 @@
+Muhammad Awais Umar 
+101094385
+
+
+
+
 The Silence Of Kashmir:
 This project is an interactive horror-style based experience by using JS and p5.js. The idea behind my artwork is to explore the theme of violence and fear through sounds, pictures and interactive stuff i added in. 
 
